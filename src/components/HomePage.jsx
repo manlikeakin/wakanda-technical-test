@@ -1,6 +1,6 @@
 import React from "react";
 import Image01 from "../assets/Group 971.png";
-import Image02 from "../assets/Layer_x0020_1.png";
+// import Image02 from "../assets/Layer_x0020_1.png";
 import Image03 from "../assets/global-connection.png";
 import Image04 from "../assets/email-marketing.png";
 import Image05 from "../assets/sales.png";
